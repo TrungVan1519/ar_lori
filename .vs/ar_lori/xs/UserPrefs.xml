@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{4878CE55-1F0C-0204-A8F2-6B37E39BA026}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DoubleTapToPlaceObject.cs">
+    <Files>
+      <File FileName="Assets/Scripts/DoubleTapToPlaceObject.cs" Line="62" Column="1" />
+      <File FileName="Assets/Scripts/SelectObjectToPlace.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/ObjectToPlace.cs" Line="12" Column="80" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8c0eb09f-d0c7-4a40-9045-9ad02979e2e4" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
